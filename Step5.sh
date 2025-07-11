@@ -1,0 +1,1 @@
+/BiO/hae/000032_GCTA/gcta-1.94.4-linux-kernel-3-x86_64/./gcta64 --bfile /BiO/hae/000006_ref_1000G/ref --mBAT-combo /BiO/hae/000029_GenomicSEM/Replication/pheri/Result.GWAS.input.mBAT --mBAT-gene-list /BiO/hae/000031_mBAT_combo/all_protein_coding_genes.noprefix.bed.v3 --mBAT-print-all-p --out Result.pheri.MAF005.Replication --thread-num 1000
